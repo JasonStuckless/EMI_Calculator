@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EMICalculator</string>
+    <string name="emi_calc_app">EMI Calc App</string>
+    <string name="principle_loan_amount">Principle Loan Amount (CAD)</string>
+    <string name="amortization_period_in_years">Amortization Period (years)</string>
+    <string name="interest_rate_percent">Interest Rate (annual)</string>
+    <string name="calculate_emi">CALCULATE EMI</string>
+    <string name="emi_calculator_logo">EMI Calculator Logo</string>
+    <string name="back">Back</string>
+    <color name="darkBlue">#1B3592</color>
+</resources>
